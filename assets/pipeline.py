@@ -15,7 +15,7 @@ for line in file:
         exit()
 #subprocess.run('npm run start', shell=True)
 subprocess.run('cd ../', shell=True)
-subprocess.run('git add -u', shell=True)
+subprocess.run('git add -A', shell=True)
 commitString = 'git commit -m ', sys.argv[1]
 subprocess.run(["git", "commit", "-m", sys.argv[1]], shell=True)
 subprocess.run('git push', shell=True)
