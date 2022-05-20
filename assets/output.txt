@@ -30,11 +30,11 @@ To ignore, add // eslint-disable-next-line to the line before.
 
 File sizes after gzip:
 
-  486.52 KB  build\static\js\2.564373bc.chunk.js
-  39.66 KB   build\static\js\main.30d752f6.chunk.js
-  20.54 KB   build\static\css\2.665a96cb.chunk.css
-  2.09 KB    build\static\css\main.c6c1930f.chunk.css
-  785 B      build\static\js\runtime-main.9280458a.js
+  486.52 KB (-7 B)  build\static\js\2.564373bc.chunk.js
+  39.66 KB (-5 B)   build\static\js\main.e065ad17.chunk.js
+  20.54 KB (-8 B)   build\static\css\2.665a96cb.chunk.css
+  2.09 KB (-2 B)    build\static\css\main.c6c1930f.chunk.css
+  785 B (-2 B)      build\static\js\runtime-main.9280458a.js
 
 The project was built assuming it is hosted at /.
 You can control this with the homepage field in your package.json.

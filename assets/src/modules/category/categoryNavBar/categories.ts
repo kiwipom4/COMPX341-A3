@@ -1,3 +1,5 @@
+//NAME: Jack Hayes
+//ID: 1545068
 //
 export const categories = {
   cooks: "Cookbooks",
